@@ -9,6 +9,15 @@ categories: deep-learning gan
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?...">
 </script>
 
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+      inlineMath: [['$','$']]
+    }
+  });
+</script>
+
 ### Introduction
 
 A Generative Adversarial Network, in short GAN, is a class of machine learning models introduced by Ian Goodfellow et al in their famous [paper with the same name][ian-goodfellow-gan].
