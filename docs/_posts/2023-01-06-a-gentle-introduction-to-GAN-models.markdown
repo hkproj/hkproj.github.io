@@ -61,7 +61,7 @@ The answer is pretty simple, and written on the left side of the equation above:
 
 The training loop is presented in the paper, and I will copy and paste it as is:
 
-![alt syntax](media/gan-training-loop-code.png)
+![GAN training loop taken from the paper](/media/gan-training-loop-code.png)
 
 As we can see from the code, the algorithm fetches a minibatch (of size $m$) of noise, and another minibatch of the same size from the training data.
 
