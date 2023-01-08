@@ -21,7 +21,7 @@
 title: 小乌的小日记
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  A journey through Artificial Intelligence
+  A journey through AI
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
