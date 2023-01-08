@@ -5,6 +5,10 @@ date:   2023-01-06 14:35:01 +0800
 categories: deep-learning gan
 ---
 
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?...">
+</script>
+
 ### Introduction
 
 A Generative Adversarial Network, in short GAN, is a class of machine learning models introduced by Ian Goodfellow et al in their famous [paper with the same name][ian-goodfellow-gan].
