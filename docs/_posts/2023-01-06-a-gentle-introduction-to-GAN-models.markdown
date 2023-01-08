@@ -3,6 +3,7 @@ layout: post
 title:  "A gentle introduction to GAN models"
 date:   2023-01-06 14:35:01 +0800
 categories: deep-learning gan
+usemathjax: true
 ---
 
 ### Introduction
@@ -76,19 +77,5 @@ The algorithm then updates the `Generator`, whose loss function is **minimized**
 ### Conclusion
 
 GANs have been around since a while and have paved the way for more complex models, for example `CycleGAN`, `StyleGAN`, etc. on which I will write in the future.
-
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    tex2jax: {
-      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-      processEscapes: true
-    }
-  });
-</script>
-    
-<script type="text/javascript"
-        src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
-
 
 [ian-goodfellow-gan]: https://arxiv.org/abs/1406.2661
