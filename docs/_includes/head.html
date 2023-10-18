@@ -5,7 +5,6 @@
   {%- seo -%}
   <link rel="stylesheet" href="{{ " /assets/main.css" | relative_url }}">
   {%- feed_meta -%}
-
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-NM9F0W4T1T"></script>
@@ -17,7 +16,6 @@
     gtag('config', 'G-NM9F0W4T1T');
   </script>
   {%- endif -%}
-
   {% if page.usemathjax %}
   <!-- for mathjax support -->
   <script type="text/x-mathjax-config">
@@ -28,8 +26,8 @@
       }
     });
   </script>
+
   <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
   </script>
   {% endif %}
-  
 </head>
