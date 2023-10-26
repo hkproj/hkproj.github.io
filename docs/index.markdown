@@ -15,6 +15,8 @@ I run a 🎬 [YouTube channel](https://www.youtube.com/@umarjamilai) to teach ma
 
 Here are some of my projects:
 
+👨 [BERT explained: Training, Inference,  BERT vs GPT/LLamA, Fine tuning, [CLS] token](https://www.youtube.com/watch?v=90mGPxR2GgY)
+
 🌄 [Coding Stable Diffusion From Scratch](https://www.youtube.com/watch?v=ZBKpAp_6TGI)
 
 🦙 [Coding LLaMA 2 From Scratch](https://www.youtube.com/watch?v=oM4VmoabDAI)
