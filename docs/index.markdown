@@ -5,9 +5,11 @@
 layout: page
 ---
 
-Hi!
+{:refdef: style="text-align: center;"}
+![Umar Jamil](media/umar-huangshan.jpg){: .align-center width="400px"}
+{: refdef}
 
-I'm Umar Jamil 👨🏽, a machine learning engineer from Milan, Italy currently based in Suzhou, China. I am studying Mandarin as my fourth language. My wife's family calls me 小乌 (xiǎowū).
+Hi! I'm Umar Jamil 👨🏽, a machine learning engineer from Milan, Italy currently based in Suzhou, China. I speak Italian, English, Urdu and I am studying Mandarin as my fourth language. My wife's family calls me 小乌 (xiǎowū).
 
 You can connect with me on 💼 [LinkedIn](https://www.linkedin.com/in/ujamil/).
 
