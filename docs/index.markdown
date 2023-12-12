@@ -17,6 +17,8 @@ I run a 🎬 [YouTube channel](https://www.youtube.com/@umarjamilai) to teach ma
 
 Here are some of my projects:
 
+⚛️ [Quantization explained with PyTorch - Post-Training Quantization, Quantization-Aware Training](https://www.youtube.com/watch?v=0VdNflU08yA)
+
 🗃️ [Retrieval Augmented Generation (RAG) Explained: Embedding, Sentence BERT, Vector Database (HNSW)](https://www.youtube.com/watch?v=rhZgXNdhWDY)
 
 👨 [BERT explained: Training, Inference,  BERT vs GPT/LLamA, Fine tuning, [CLS] token](https://www.youtube.com/watch?v=90mGPxR2GgY)
