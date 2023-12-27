@@ -17,6 +17,8 @@ I run a 🎬 [YouTube channel](https://www.youtube.com/@umarjamilai) to teach ma
 
 Here are some of my projects:
 
+🌈 [Mistral 7B and Mixtral 8x7B Explained: Sliding Window Attention, Sparse Mixture of Experts, Rolling Buffer (KV) Cache, Model Sharding](https://www.youtube.com/watch?v=UiX8K-xBUpE)
+
 🔬 [Distributed Training with PyTorch: complete tutorial with cloud infrastructure and code](https://www.youtube.com/watch?v=toUSzwR0EV8)
 
 ⚛️ [Quantization explained with PyTorch - Post-Training Quantization, Quantization-Aware Training](https://www.youtube.com/watch?v=0VdNflU08yA)
