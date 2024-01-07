@@ -17,6 +17,8 @@ I run a 🎬 [YouTube channel](https://www.youtube.com/@umarjamilai) to teach ma
 
 Here are some of my projects:
 
+🐍 [Mamba and S4 Explained: Architecture, Parallel Scan, Kernel Fusion, Recurrent, Convolution, Math](https://www.youtube.com/watch?v=8Q_tqwpTpVU)
+
 🌈 [Mistral 7B and Mixtral 8x7B Explained: Sliding Window Attention, Sparse Mixture of Experts, Rolling Buffer (KV) Cache, Model Sharding](https://www.youtube.com/watch?v=UiX8K-xBUpE)
 
 🔬 [Distributed Training with PyTorch: complete tutorial with cloud infrastructure and code](https://www.youtube.com/watch?v=toUSzwR0EV8)
