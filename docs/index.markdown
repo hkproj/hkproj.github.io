@@ -17,6 +17,8 @@ I run a 🎬 [YouTube channel](https://www.youtube.com/@umarjamilai) to teach ma
 
 Here are some of my projects:
 
+🕸️ [Kolmogorov-Arnold Networks: MLP vs KAN, Math, B-Splines, Universal Approximation Theorem](https://youtu.be/-PFIkkwWdnM)
+
 🎯 [Direct Preference Optimization (DPO) explained: Bradley-Terry model, log probabilities, math derivations](https://youtu.be/hvGa5Mba4c8)
 
 📐 [Reinforcement Learning from Human Feedback explained with math derivations and the PyTorch code](https://www.youtube.com/watch?v=qGyFrqc34yc)
