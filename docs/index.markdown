@@ -11,7 +11,7 @@ layout: page
 
 Hi! I'm Umar Jamil 👨🏽, a machine learning engineer from Milan, Italy. I speak Italian, English, Urdu and Mandarin. My wife's family calls me 小乌 (xiǎowū).
 
-You can connect with me on 💼 [LinkedIn](https://www.linkedin.com/in/ujamil/).
+You can connect with me on 💼 [LinkedIn](https://www.linkedin.com/in/ujamil/) and [𝕏 / Twitter](https://x.com/hkproj).
 
 I run a 🎬 [YouTube channel](https://www.youtube.com/@umarjamilai) to teach machine learning and AI concepts in a simple way.
 
