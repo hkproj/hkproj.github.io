@@ -3,6 +3,8 @@ languageCode: en-us
 title: 小乌
 theme: PaperMod
 
+googleAnalytics: "G-NM9F0W4T1T"
+
 params:
   homeInfoParams:
     Title: Hi! I'm Umar Jamil 👨🏽
