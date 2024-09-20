@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on 小乌</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on 小乌</description>
+    <generator>Hugo -- 0.134.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Sep 2024 15:02:36 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Videos</title>
+      <link>http://localhost:1313/posts/videos/</link>
+      <pubDate>Fri, 20 Sep 2024 15:02:36 +0200</pubDate>
+      <guid>http://localhost:1313/posts/videos/</guid>
+      <description>&lt;p&gt;I publish many videos on my &lt;a href=&#34;https://www.youtube.com/channel/@umarjamilai&#34;&gt;YouTube channel&lt;/a&gt; related to deep learning and AI in general.&lt;/p&gt;
+&lt;p&gt;Here are some of my projects:&lt;/p&gt;
+&lt;p&gt;🌅 &lt;a href=&#34;https://www.youtube.com/watch?v=vAmKB7iPkWw&#34;&gt;Coding a Multimodal (Vision) Language Model from scratch in PyTorch with full explanation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;🪢 &lt;a href=&#34;https://youtu.be/lg1-M8hEX50&#34;&gt;ML Interpretability: feature visualization, adversarial example, interp. for language models&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;🕸️ &lt;a href=&#34;https://youtu.be/-PFIkkwWdnM&#34;&gt;Kolmogorov-Arnold Networks: MLP vs KAN, Math, B-Splines, Universal Approximation Theorem&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;🎯 &lt;a href=&#34;https://youtu.be/hvGa5Mba4c8&#34;&gt;Direct Preference Optimization (DPO) explained: Bradley-Terry model, log probabilities, math derivations&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;📐 &lt;a href=&#34;https://www.youtube.com/watch?v=qGyFrqc34yc&#34;&gt;Reinforcement Learning from Human Feedback explained with math derivations and the PyTorch code&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

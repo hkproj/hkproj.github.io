@@ -1,0 +1,24 @@
+baseURL: https://umarjamil.org/
+languageCode: en-us
+title: 小乌
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: Hi! I'm Umar Jamil 👨🏽
+    Content: |
+      I'm a machine learning engineer from Milan, Italy. I speak Italian, English, Urdu and Mandarin. My wife's family calls me 小乌 (xiǎowū).
+
+  socialIcons:
+    - name: twitter
+      url: https://x.com/hkproj
+    - name: github
+      url: https://github.com/hkproj
+    - name: linkedin
+      url: https://www.linkedin.com/in/ujamil/
+    - name: youtube
+      url: https://www.youtube.com/@umarjamilai
+    
+  analytics:
+    google:
+      SiteVerificationTag: "G-NM9F0W4T1T"

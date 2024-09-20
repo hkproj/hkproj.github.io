@@ -1,21 +1,8 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: page
----
-
-{:refdef: style="text-align: center;"}
-![Umar Jamil](media/umar-huangshan.jpg){: .align-center width="400px"}
-{: refdef}
-
-Hi! I'm Umar Jamil 👨🏽, a machine learning engineer from Milan, Italy. I speak Italian, English, Urdu and Mandarin. My wife's family calls me 小乌 (xiǎowū).
-
-You can connect with me on 💼 [LinkedIn](https://www.linkedin.com/in/ujamil/) and [𝕏 / Twitter](https://x.com/hkproj).
-
-I run a 🎬 [YouTube channel](https://www.youtube.com/@umarjamilai) to teach machine learning and AI concepts in a simple way.
-
-Here are some of my projects:
++++
+title = 'Videos'
+date = 2024-09-20T15:02:36+02:00
+draft = false
++++
 
 🌅 [Coding a Multimodal (Vision) Language Model from scratch in PyTorch with full explanation](https://www.youtube.com/watch?v=vAmKB7iPkWw)
 
