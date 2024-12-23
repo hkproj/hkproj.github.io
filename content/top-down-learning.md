@@ -2,8 +2,7 @@
 title: Start feeling stupid
 date: 2024-12-22
 ---
-
-Since childhood, I've always been learning by starting from the foundations and then building up something complex from it. In the era of reasoning LLMs, I believe a top-down approach works better. Imagine you want to learn a new deep learning architecture.
+I've always been learning by starting from the foundations and then building up something complex from it. In the era of reasoning LLMs, I believe a top-down approach works better. Imagine you want to learn a new deep learning architecture.
 
 1. Read the paper. Don't stop for things you don't understand, force yourself to read the entire thing. Even if you grasp only 5% of the paper initially, it's fine. The point is to get a general overview of how it works and what it does.
 1. Skim through the code, run it, commenting the code as you go through it. The main objective should be to make the code runnable and debuggable.

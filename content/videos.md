@@ -2,7 +2,6 @@
 title: Videos
 date: 2024-09-20
 ---
-
 🔥 [Flash Attention derived and coded from first principles with Triton (Python)](https://youtu.be/zy8ChVd_oTM)
 
 🌅 [Coding a Multimodal (Vision) Language Model from scratch in PyTorch with full explanation](https://www.youtube.com/watch?v=vAmKB7iPkWw)
