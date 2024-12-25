@@ -31,6 +31,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.RecentNotes({ title: "Recent notes" }),
+    Component.Explorer(),
   ],
   right: [
     Component.Graph(),
