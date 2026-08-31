@@ -12,10 +12,6 @@ permalink: pretty
 
 show_excerpts: false
 
-header_pages:
-  - videos.md
-  - principles-i-live-by.md
-
 twitter_username: hkproj
 youtube_username: "@umarjamilai"
 github_username: hkproj
